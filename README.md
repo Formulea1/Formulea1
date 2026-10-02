@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Formulea1 👋</h1>
+  <h1>Hey, I'm Formule 👋</h1>
   <p><strong>Game modding · Multiplayer systems · Professional Idiot</strong></p>
   <p>I enjoy building ambitious game-related projects, figuring out how complex systems work, and turning experiments into something playable.</p>
   <p>
