@@ -29,7 +29,7 @@ A native co-op experiment exploring what it takes to connect Fallout 4 players a
 - Experimenting with remote-player representation and movement in-game.
 - Working toward better synchronization; animation and gameplay synchronization are **not complete**.
 
-> Currently a private, experimental project—not a finished multiplayer mod.
+> Currently a private, experimental project not a finished multiplayer mod.
 
 #### ⚔️ PvPBots
 **Server-side Minecraft PvP practice bots** · `Java` `Fabric` `Gradle` · **In development**
