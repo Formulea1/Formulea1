@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Formulea1 👋</h1>
-  <p><strong>Game modding · Multiplayer systems · AI experiments</strong></p>
+  <p><strong>Game modding · Multiplayer systems · Professional Idiot</strong></p>
   <p>I enjoy building ambitious game-related projects, figuring out how complex systems work, and turning experiments into something playable.</p>
   <p>
     <a href="https://github.com/Formulea1"><img alt="GitHub: Formulea1" src="https://img.shields.io/badge/GitHub-Formulea1-181717?style=for-the-badge&logo=github" /></a>
